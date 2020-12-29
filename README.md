@@ -1,2 +1,2 @@
 # Demo
-I am follow a youtube tutorial.
+I am following a youtube tutorial.
